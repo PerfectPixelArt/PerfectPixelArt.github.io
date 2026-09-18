@@ -9,6 +9,7 @@
     "sampling": "robust",
     "alpha_mode": "auto",
     "local_warp": "auto",
+    "photo_mode": "auto",
     "min_pixel_size": 2.0,
     "max_pixel_size": 64.0,
     "square": false,
@@ -88,18 +89,19 @@
       "unique_colors": 275
     }
   ],
-  "bundle_sha256": "d02cb122a4810cdd253bba6f92e2dae642d37ebaecac2dc5eb2122c77ebcf715",
+  "bundle_sha256": "d1e3c19e57d3bdc454117a08dab3b29bb1209f43e526ce89c9542ba23c2bf81e",
   "files": {
     "pixelperfect/__init__.py": "c0644790b8432b9351efe48f819a28e549ba8c24f1612086cc933e86161b7515",
-    "pixelperfect/__main__.py": "48ac8a45057853cc55fbedeb4e85755555caf722ae4c5865d98bd6c3ba295952",
+    "pixelperfect/__main__.py": "93a7ce443d034c63f3e2ed617af0b29ff6f214421230826c917d90335a68d2aa",
     "pixelperfect/color_math.py": "ab735d2728ff0db7623d69f8d75dbcc407f04c903f946ed9bd029d64a45b883c",
-    "pixelperfect/config.py": "3043870e8cb3874779993a47e7d91e1341ece17f4a0571df52c9ee14c055a22d",
-    "pixelperfect/diagnostics.py": "50a898db3e6aae7dd70bf8f5bdc325a433c58d461070127e032a2a2cde155cef",
+    "pixelperfect/config.py": "4093a896a6dcf369e078b98f0dd9fa1207c2db9fc114aa61598f3bff3d7f9a2b",
+    "pixelperfect/diagnostics.py": "49044b655da5eaf3ed9eef34bab2825b071023ebcb7138b8f5996cb1eb497bf3",
     "pixelperfect/features.py": "6bf1b7abccf31575f6a8fd5b49d4356ffe316d37610149d9317ece1988023020",
     "pixelperfect/grid.py": "90be79b8ccb3ca85396b8ff4649d6358048f41dd965b99109f301ddf4407d58a",
     "pixelperfect/image_io.py": "9719d3debe447c5840258be7e440074c89f99caf7a7c46887a8e3ec64e61059a",
+    "pixelperfect/natural.py": "3f918087550e678a4b9f1e596eea68241730499a0ae90f6186f5954cc8f1c7b5",
     "pixelperfect/palette.py": "bca4613883f76c83a8a4fb4610f332511b416f9eaf6bd0e350069bc1e3937cd7",
-    "pixelperfect/pipeline.py": "e0f90cdac407c8fe13d5faa36938b78e5bfc15ab5fa000ead775dc50d1ccc213",
+    "pixelperfect/pipeline.py": "cd8e90d51bc1762055cf1bafcfc52b698f0866d142e96cd54de82547964098d2",
     "pixelperfect/sampling.py": "b3e416d851a48027485f044674af99851e31b66ab7d1d16a060ea9aca85f5b65",
     "pixelperfect/palettes.json": "d44788e6515ca7daffb7cdfb396dbd32b53a0c7f2247dbfecf9c5188667ddd89",
     "web_bridge.py": "819a9a2b7154700c9d904921f3878a1c876c3804746beb251dd3a73141b9dad9"
